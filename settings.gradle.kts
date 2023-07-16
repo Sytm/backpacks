@@ -1,3 +1,3 @@
-rootProject.name = "project"
+rootProject.name = "pouches"
 
 plugins { id("org.gradle.toolchains.foojay-resolver-convention") version ("0.5.0") }

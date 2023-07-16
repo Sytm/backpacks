@@ -1,10 +1,10 @@
 name: ${name}
 authors:
   - Md5Lukas
-main: de.md5lukas.<package>.<MainClass>
-loader: de.md5lukas.<package>.DependencyYmlLoader
+main: de.md5lukas.pouches.PouchesPlugin
+loader: de.md5lukas.pouches.DependencyYmlLoader
 version: ${version}
 
-website: https://github.com/Sytm/<repo>
+website: https://github.com/Sytm/pouches
 
 api-version: "1.20"
